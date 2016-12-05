@@ -1,0 +1,26 @@
+{
+    "available-campaign-levels": {
+        "beta": {
+            "level-01": "normal",
+            "level-02": "easy"
+        },
+        "demo": {
+            "level-01": "hard",
+            "level-02": "normal",
+            "level-03": "normal"
+        },
+        "tight-spot": {
+            "level-01": "hard"
+        },
+        "transport-belt-madness": {
+            "level-01": "hard"
+        }
+    },
+    "finished-campaigns": {
+        "demo": "normal"
+    },
+    "console-history": "",
+    "latest-multiplayer-connections": "",
+    "service-username": "myustc",
+    "service-token": "0471ca7ab6d7d5a7b154cf7f7121eb"
+}
