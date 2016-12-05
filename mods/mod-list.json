@@ -3,6 +3,26 @@
         {
             "name": "base",
             "enabled": "true"
+        },
+        {
+            "name": "Arborium",
+            "enabled": "false"
+        },
+        {
+            "name": "clock",
+            "enabled": "true"
+        },
+        {
+            "name": "moweather",
+            "enabled": "false"
+        },
+        {
+            "name": "Nucular",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "false"
         }
     ]
 }
